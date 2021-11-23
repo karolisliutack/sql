@@ -1,8 +1,3 @@
-/*******************************************
- * Author(s)   : Oracle Masters Training
- * Course Name : The Complete SQL Bootcamp
- * Lecture     : The SET UNUSED Clause
- *******************************************/
 --Source Code:
  
 --Creation Code for the Retired_Employees Table--

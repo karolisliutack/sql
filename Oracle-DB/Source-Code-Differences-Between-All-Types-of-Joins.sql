@@ -1,8 +1,3 @@
-/**************************************************************************************
- * Author(s)   : Oracle Masters Training                                              
- * Course Name : The Complete SQL Bootcamp                                            
- * Lecture     : Differences Between Inner Join, Outer Join, Equijoin & Non-Equijoins 
- **************************************************************************************/
 --Source Code:
 ------------- INNER EQUIJOIN EXAMPLES ---------------
 SELECT e.first_name, e.last_name, d.department_name
